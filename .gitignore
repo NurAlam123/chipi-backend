@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+venv
+venv/*
+.venv
+.venv/*
+
+
+# Others
+database/*
+datasets/*
+models/*
+piper-models/*
+text
+audio
+whisper-base-en/*
+src/ignore/
