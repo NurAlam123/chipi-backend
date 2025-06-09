@@ -1,6 +1,6 @@
-# Chippi - Backend
+# Chipi - Backend
 
-Chipi is a local chatbot app powered by HuggingFace models and PyTorch. This is the backend API service that powers the chat interface with features like streaming responses, managing conversations, and more.
+[Chipi](https://github.com/nuralam123/chipi.git) is a local chatbot app powered by HuggingFace models and PyTorch. This is the backend API service that powers the chat interface with features like streaming responses, managing conversations, and more.
 
 ## 🚀 Tech Stack
 
