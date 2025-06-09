@@ -66,7 +66,7 @@ chipi-backend/
 ## 🚀 Run Locally
 
 1. **Edit the configuration**
-   Open `config.py` and update the settings as per your environment (e.g., model path, device type, database URL, etc.).
+   Open `config.py` and update the settings as per your environment (e.g., model path, database URL, etc.).
 
 2. **Install all dependencies**
 
@@ -98,7 +98,3 @@ chipi-backend/
 ## 📜 License
 
 [MIT](./LICENSE)
-
-```
-
-```
